@@ -1,0 +1,12 @@
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\bin\Debug\Magazin.mdf
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\bin\Debug\Magazin_log.ldf
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\bin\Debug\Magazin.exe.config
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\bin\Debug\Magazin.exe
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\bin\Debug\Magazin.pdb
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\obj\Debug\Magazin.csproj.AssemblyReference.cache
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\obj\Debug\Magazin.Form1.resources
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\obj\Debug\Magazin.Properties.Resources.resources
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\obj\Debug\Magazin.csproj.GenerateResource.cache
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\obj\Debug\Magazin.exe
+C:\Users\Chisluca Ana\source\repos\Magazin\Magazin\obj\Debug\Magazin.pdb
